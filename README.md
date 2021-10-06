@@ -1,6 +1,6 @@
 # PICK-A-PLACE
 
-P.A.P is a destination travel advisor platform to gain all the information needed for your next trip anywhere around the globe. This platform provides information about different attractions, hotels, restaurants and all required services near you to make your vacation easier and worth remembering.
+P.A.P is a destination travel advisor platform to gain all the information needed for your next trip anywhere around the globe. This platform provides information about different attractions, hotels, restaurants and all required services near you to make your travel/trip easier and worth remembering.
 
 # Services Provided :-
   
