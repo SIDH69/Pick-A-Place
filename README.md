@@ -13,7 +13,7 @@ P.A.P is a destination travel advisor platform to gain all the information neede
 
 # About the Project :-
  
- P.A.P is a travel companion for hassle free, quick and a worthful vacation. This project is a web based application developed by using HTML, JavaScript, ShellScript and RapidAPIs  particularly for the map and cab services provided in the application. MS-SQL Database will be deployed as database keeping and managing system for this application project. All the source code will be compiled and run in Virtual Studio Code (VSCode) using required extension.
+ P.A.P is a travel companion for hassle free, quick and a worthful vacation. This project is a web based application developed by using HTML, JavaScript, ShellScript and RapidAPIs  particularly for the map and cab services provided in the application. MySQL Database will be deployed as database keeping and managing system for this application project. All the source code will be compiled and run in Virtual Studio Code (VSCode) using required extension.
  
  # Project Maintainance And Management :-
   
